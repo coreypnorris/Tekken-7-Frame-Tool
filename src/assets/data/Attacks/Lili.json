@@ -1,0 +1,1163 @@
+[
+    {
+        "Command": "in rage 3+4",
+        "HitLevel": "m (TJ)",
+        "Damage": "55",
+        "StartUpFrame": "20 pc8~17 js8~",
+        "BlockFrame": "-22",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Rage art"
+    },
+    {
+        "Command": "in rage d/f+2+3",
+        "HitLevel": "m, h",
+        "Damage": "10,20",
+        "StartUpFrame": "22 js9~",
+        "BlockFrame": "+9~+10",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Rage drive, Homing"
+    },
+    {
+        "Command": "1",
+        "HitLevel": "h",
+        "Damage": "7",
+        "StartUpFrame": "10",
+        "BlockFrame": "1",
+        "HitFrame": "8",
+        "CounterHitFrame": "8"
+    },
+    {
+        "Command": "1, 2",
+        "HitLevel": "h, h",
+        "Damage": "7,12",
+        "StartUpFrame": "10",
+        "BlockFrame": "-1",
+        "HitFrame": "8",
+        "CounterHitFrame": "8"
+    },
+    {
+        "Command": "1, 2, 3",
+        "HitLevel": "h, h, l (TC)",
+        "Damage": "7,12,10",
+        "StartUpFrame": "cs10~",
+        "BlockFrame": "-13",
+        "HitFrame": "-2",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "1, 2, 4",
+        "HitLevel": "h, h, m (TJ)",
+        "Damage": "7,12,20",
+        "StartUpFrame": "js21~",
+        "BlockFrame": "-9~-4",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "2",
+        "HitLevel": "h",
+        "Damage": "8",
+        "StartUpFrame": "10",
+        "BlockFrame": "0",
+        "HitFrame": "8",
+        "CounterHitFrame": "8"
+    },
+    {
+        "Command": "2, 3",
+        "HitLevel": "h, l (TC)",
+        "Damage": "8,10",
+        "StartUpFrame": "cs10~",
+        "BlockFrame": "-13",
+        "HitFrame": "-2",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "2, 4",
+        "HitLevel": "h, h",
+        "Damage": "8,20",
+        "StartUpFrame": "10~",
+        "BlockFrame": "-2~+2",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "3",
+        "HitLevel": "m",
+        "Damage": "12",
+        "StartUpFrame": "15~16b",
+        "BlockFrame": "-11~-10",
+        "HitFrame": "-3~-2",
+        "CounterHitFrame": "-3~-2"
+    },
+    {
+        "Command": "3, 1",
+        "HitLevel": "m, m",
+        "Damage": "12,20",
+        "StartUpFrame": "15~16",
+        "BlockFrame": "-13~-12",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "3, 2",
+        "HitLevel": "m, h",
+        "Damage": "12,8",
+        "StartUpFrame": "15~16",
+        "BlockFrame": "-5",
+        "HitFrame": "2",
+        "CounterHitFrame": "6"
+    },
+    {
+        "Command": "3, 2, F",
+        "HitLevel": "m, h",
+        "Damage": "12,8",
+        "StartUpFrame": "15~16",
+        "BlockFrame": "-2",
+        "HitFrame": "5",
+        "CounterHitFrame": "9"
+    },
+    {
+        "Command": "3, 2, 3",
+        "HitLevel": "m, h, h (TJ)",
+        "Damage": "12,8,22",
+        "StartUpFrame": "js13~",
+        "BlockFrame": "-9~-6",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "4",
+        "HitLevel": "h",
+        "Damage": "16",
+        "StartUpFrame": "12",
+        "BlockFrame": "-4",
+        "HitFrame": "7",
+        "CounterHitFrame": "7"
+    },
+    {
+        "Command": "4, 1",
+        "HitLevel": "h, h",
+        "Damage": "16,7",
+        "StartUpFrame": "12",
+        "BlockFrame": "-1",
+        "HitFrame": "0",
+        "CounterHitFrame": "2"
+    },
+    {
+        "Command": "4, 1, 3",
+        "HitLevel": "h, h, m",
+        "Damage": "16,7,10",
+        "StartUpFrame": "12",
+        "BlockFrame": "-11~-9",
+        "HitFrame": "0~+2s",
+        "CounterHitFrame": "+8~+10s"
+    },
+    {
+        "Command": "1+2",
+        "HitLevel": "m",
+        "Damage": "26",
+        "StartUpFrame": "12",
+        "BlockFrame": "-12",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f+2",
+        "HitLevel": "h",
+        "Damage": "12",
+        "StartUpFrame": "12~13",
+        "BlockFrame": "-9~-8",
+        "HitFrame": "-1~0",
+        "CounterHitFrame": "-1~0"
+    },
+    {
+        "Command": "f+2, 3",
+        "HitLevel": "h, m",
+        "Damage": "12,20",
+        "StartUpFrame": "12~13",
+        "BlockFrame": "-15~-14",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f+3",
+        "HitLevel": "m",
+        "Damage": "26",
+        "StartUpFrame": "20~22",
+        "BlockFrame": "-6~-4",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "f+4",
+        "HitLevel": "m",
+        "Damage": "23",
+        "StartUpFrame": "17",
+        "BlockFrame": "-9",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f+1+2",
+        "HitLevel": "m",
+        "Damage": "19",
+        "StartUpFrame": "14~15",
+        "BlockFrame": "-6~-5",
+        "HitFrame": "+3~+4s",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f+3+4",
+        "HitLevel": "mm (TJ)",
+        "Damage": "8,22",
+        "StartUpFrame": "18~20, 35~37 js12~24",
+        "BlockFrame": "-4~-2",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f+3+4 (First hit only)",
+        "HitLevel": "m",
+        "Damage": "8",
+        "StartUpFrame": "18~20 js12~24",
+        "BlockFrame": "-25~-23",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f+3+4 (Second hit only)",
+        "HitLevel": "m",
+        "Damage": "22",
+        "StartUpFrame": "35~37",
+        "BlockFrame": "-4~-2",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f+3+4~3",
+        "HitLevel": "m (TJ), m",
+        "Damage": "8,20",
+        "StartUpFrame": "18~20, 54~57 (12js~)",
+        "BlockFrame": "-8~-5",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f+3+4~3, 4",
+        "HitLevel": "m (TJ), m, m",
+        "Damage": "8,20,20",
+        "StartUpFrame": "js18~",
+        "BlockFrame": "-20~-16",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "d/f+1",
+        "HitLevel": "m",
+        "Damage": "12",
+        "StartUpFrame": "13",
+        "BlockFrame": "-1",
+        "HitFrame": "7",
+        "CounterHitFrame": "7"
+    },
+    {
+        "Command": "d/f+2",
+        "HitLevel": "m",
+        "Damage": "16",
+        "StartUpFrame": "16~17",
+        "BlockFrame": "-11~-10",
+        "HitFrame": "Launch (JG?)",
+        "CounterHitFrame": "Launch (JG?)"
+    },
+    {
+        "Command": "d/f+2, B",
+        "HitLevel": "m(BT)",
+        "Damage": "16",
+        "StartUpFrame": "16~17b",
+        "BlockFrame": "-11~-10",
+        "HitFrame": "Launch (JG?)",
+        "CounterHitFrame": "Launch (JG?)"
+    },
+    {
+        "Command": "d/f+3",
+        "HitLevel": "m",
+        "Damage": "23",
+        "StartUpFrame": "20~22",
+        "BlockFrame": "+3~+5s",
+        "HitFrame": "+8~+10g",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "d/f+4",
+        "HitLevel": "m",
+        "Damage": "14",
+        "StartUpFrame": "15~16",
+        "BlockFrame": "-8~-7",
+        "HitFrame": "-2~-1",
+        "CounterHitFrame": "+5~+6"
+    },
+    {
+        "Command": "d/f+4, 4",
+        "HitLevel": "m, l",
+        "Damage": "14,21",
+        "StartUpFrame": "15~16",
+        "BlockFrame": "-15~-14",
+        "HitFrame": "+1~+2",
+        "CounterHitFrame": "+6~+7"
+    },
+    {
+        "Command": "d/f+3+4",
+        "HitLevel": "m (TJ)",
+        "Damage": "14",
+        "StartUpFrame": "24~29b js12~",
+        "BlockFrame": "-4~+1",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "d/f+3+4, 3+4",
+        "HitLevel": "m (TJ), mm (TJ)",
+        "Damage": "14,5,20",
+        "StartUpFrame": "b js14~",
+        "BlockFrame": "-7~-6",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "d/f+3+4, 3+4 (Third hit miss)",
+        "HitLevel": "m (TJ), m",
+        "Damage": "14,5",
+        "StartUpFrame": "b js14~",
+        "BlockFrame": "-18~-16",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "d+1",
+        "HitLevel": "l (TC)",
+        "Damage": "10",
+        "StartUpFrame": "18~19 cs11~",
+        "BlockFrame": "-11~-10",
+        "HitFrame": "0~+1",
+        "CounterHitFrame": "0~+1"
+    },
+    {
+        "Command": "d+1, D",
+        "HitLevel": "l (TC)",
+        "Damage": "10",
+        "StartUpFrame": "18~19s cs11~",
+        "BlockFrame": "-11~-10",
+        "HitFrame": "0~+1",
+        "CounterHitFrame": "0~+1"
+    },
+    {
+        "Command": "d+1, 2",
+        "HitLevel": "l (TC), h",
+        "Damage": "10,8",
+        "StartUpFrame": "18~19 11~",
+        "BlockFrame": "-8~-7",
+        "HitFrame": "+3~+4",
+        "CounterHitFrame": "+5~+6"
+    },
+    {
+        "Command": "d+1, 2, B",
+        "HitLevel": "l (TC), h, (BT)",
+        "Damage": "10,8",
+        "StartUpFrame": "18~19 11~b",
+        "BlockFrame": "-8~-7",
+        "HitFrame": "+3~+4",
+        "CounterHitFrame": "+5~+6"
+    },
+    {
+        "Command": "d+1, 2, 4",
+        "HitLevel": "l (TC), h, m",
+        "Damage": "10,8,24",
+        "StartUpFrame": "18~19 11~",
+        "BlockFrame": "-9~-7",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "d+2",
+        "HitLevel": "m",
+        "Damage": "16",
+        "StartUpFrame": "16~17",
+        "BlockFrame": "-7~-6",
+        "HitFrame": "-1~0",
+        "CounterHitFrame": "-1~0"
+    },
+    {
+        "Command": "d+2, 2",
+        "HitLevel": "m, h",
+        "Damage": "16,10",
+        "StartUpFrame": "16~17",
+        "BlockFrame": "-10~-9",
+        "HitFrame": "-4~-3",
+        "CounterHitFrame": "-2~-1"
+    },
+    {
+        "Command": "d+2, 2, 3",
+        "HitLevel": "m, h, h",
+        "Damage": "16,10,24",
+        "StartUpFrame": "16~17",
+        "BlockFrame": "-3~-1",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "d+2, 2, 4",
+        "HitLevel": "m, h, m",
+        "Damage": "16,10,24",
+        "StartUpFrame": "16~17",
+        "BlockFrame": "-17",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "d+3",
+        "HitLevel": "l",
+        "Damage": "14",
+        "StartUpFrame": "19~20",
+        "BlockFrame": "-12~-11",
+        "HitFrame": "+1~+2",
+        "CounterHitFrame": "+1~+2"
+    },
+    {
+        "Command": "d+3+4",
+        "HitLevel": "m?",
+        "Damage": "23",
+        "StartUpFrame": "17~21a",
+        "BlockFrame": "-21~-17",
+        "HitFrame": "Launch(JG?)",
+        "CounterHitFrame": "Launch(JG?)"
+    },
+    {
+        "Command": "d/b+3",
+        "HitLevel": "h",
+        "Damage": "20",
+        "StartUpFrame": "19~22 cs6~16",
+        "BlockFrame": "-9~-6",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Tail spin, Homing"
+    },
+    {
+        "Command": "d/b+4",
+        "HitLevel": "l (TC)",
+        "Damage": "20",
+        "StartUpFrame": "30~31 cs5~",
+        "BlockFrame": "-24",
+        "HitFrame": "YKU",
+        "CounterHitFrame": "YKU",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "d/b+3+4",
+        "HitLevel": "l",
+        "Damage": "20",
+        "StartUpFrame": "24~25s cs6~",
+        "BlockFrame": "-18~-17",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "b+1",
+        "HitLevel": "m?",
+        "Damage": "16",
+        "StartUpFrame": "17~18",
+        "BlockFrame": "-6~-5",
+        "HitFrame": "+2~+3",
+        "CounterHitFrame": "+2~+3"
+    },
+    {
+        "Command": "b+1, F",
+        "HitLevel": "m, (Special)",
+        "Damage": "16",
+        "StartUpFrame": "17~18",
+        "BlockFrame": "+1~+2",
+        "HitFrame": "+9~+10",
+        "CounterHitFrame": "+9~+10"
+    },
+    {
+        "Command": "b+1, 4",
+        "HitLevel": "m, m",
+        "Damage": "16,22",
+        "StartUpFrame": "17~18",
+        "BlockFrame": "-11~-10",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "b+2",
+        "HitLevel": "h",
+        "Damage": "15",
+        "StartUpFrame": "13",
+        "BlockFrame": "-11",
+        "HitFrame": "0",
+        "CounterHitFrame": "0"
+    },
+    {
+        "Command": "b+2, 1",
+        "HitLevel": "h, m",
+        "Damage": "15,13",
+        "StartUpFrame": "13",
+        "BlockFrame": "-4~-3",
+        "HitFrame": "+7~+8",
+        "CounterHitFrame": "+7~+8"
+    },
+    {
+        "Command": "b+2, 1, B",
+        "HitLevel": "h, m(BT)",
+        "Damage": "15,13",
+        "StartUpFrame": "13b",
+        "BlockFrame": "-4~-3",
+        "HitFrame": "+7~+8",
+        "CounterHitFrame": "+7~+8"
+    },
+    {
+        "Command": "b+2, 1, 1+2",
+        "HitLevel": "h, m, m",
+        "Damage": "15,13,27",
+        "StartUpFrame": "13",
+        "BlockFrame": "-12~-11",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "b+3 or BT b+3",
+        "HitLevel": "(Special) (TJ)",
+        "StartUpFrame": "13"
+    },
+    {
+        "Command": "b+4 or BT b+4",
+        "HitLevel": "(Special) (TJ)",
+        "StartUpFrame": "13"
+    },
+    {
+        "Command": "b+3 or 4, f",
+        "HitLevel": "(Special) (TJ)",
+        "StartUpFrame": "RC"
+    },
+    {
+        "Command": "b+3, 3 or b+4, 3",
+        "HitLevel": "(Special) (TJ), l (TC)",
+        "Damage": "25",
+        "StartUpFrame": "24~25s (49~)",
+        "BlockFrame": "-15~-14",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "b+3, 4 or b+4, 4",
+        "HitLevel": "(Special) (TJ), m (TJ)",
+        "Damage": "27",
+        "StartUpFrame": "23~29 (48~)",
+        "BlockFrame": "-6~0",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "b+1+2",
+        "HitLevel": "m",
+        "Damage": "24",
+        "StartUpFrame": "23~24",
+        "BlockFrame": "-14~-13",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "b+1+4",
+        "HitLevel": "! (TJ)",
+        "Damage": "50",
+        "StartUpFrame": "63~65 js56~",
+        "BlockFrame": "KND",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "u/b or u or u/f+2",
+        "HitLevel": "m",
+        "Damage": "21",
+        "StartUpFrame": "20~21",
+        "BlockFrame": "-12~-11",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "u/b or u+3",
+        "HitLevel": "m (TJ)",
+        "Damage": "26",
+        "StartUpFrame": "22~23 js16~",
+        "BlockFrame": "-16~-15",
+        "HitFrame": "Launch (JG?)",
+        "CounterHitFrame": "Launch (JG?)"
+    },
+    {
+        "Command": "u/b or u+3, f",
+        "HitLevel": "m (TJ), (Special)",
+        "Damage": "26",
+        "StartUpFrame": "22~23 js16~",
+        "BlockFrame": "-13~-12",
+        "HitFrame": "Launch (JG?)",
+        "CounterHitFrame": "Launch (JG?)"
+    },
+    {
+        "Command": "u/b or u+3, 3",
+        "HitLevel": "m (TJ), m (TJ)",
+        "Damage": "26,15",
+        "StartUpFrame": "js9~",
+        "BlockFrame": "-12",
+        "HitFrame": "0",
+        "CounterHitFrame": "0"
+    },
+    {
+        "Command": "u/b or u+3, 3, F",
+        "HitLevel": "m (TJ), m (TJ)",
+        "Damage": "26,15",
+        "StartUpFrame": "js9~",
+        "BlockFrame": "-3",
+        "HitFrame": "9",
+        "CounterHitFrame": "9"
+    },
+    {
+        "Command": "u/b or u+3, 3, 3+4",
+        "HitLevel": "m (TJ), m (TJ)",
+        "Damage": "26,15,5,2",
+        "StartUpFrame": "22~23",
+        "BlockFrame": "-8",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "u+3+4",
+        "HitLevel": "m (TJ), (Throw)",
+        "Damage": "18(,5,5)",
+        "StartUpFrame": "36~39 js5~",
+        "BlockFrame": "-8~-5",
+        "HitFrame": "Launch (JG?)(Throw)",
+        "CounterHitFrame": "Launch (JG?)(Throw)"
+    },
+    {
+        "Command": "u+3+4 (Far)",
+        "HitLevel": "m (TJ)",
+        "Damage": "18",
+        "StartUpFrame": "36~39 js5~",
+        "BlockFrame": "-8~-5",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "u/f+3",
+        "HitLevel": "m (TJ)",
+        "Damage": "13",
+        "StartUpFrame": "15~17 js9~",
+        "BlockFrame": "-13~-11",
+        "HitFrame": "Launch (JG?)",
+        "CounterHitFrame": "Launch (JG?)"
+    },
+    {
+        "Command": "u/f+4",
+        "HitLevel": "m (TJ)",
+        "Damage": "12",
+        "StartUpFrame": "25~29 js9~",
+        "BlockFrame": "-12~-8",
+        "HitFrame": "+1~+5s",
+        "CounterHitFrame": "+1~+5s"
+    },
+    {
+        "Command": "u/f+4, 3",
+        "HitLevel": "m (TJ), m",
+        "Damage": "18,23",
+        "StartUpFrame": "28~32 12~",
+        "BlockFrame": "-9",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Wall bounce"
+    },
+    {
+        "Command": "u/f+3+4",
+        "HitLevel": "m (TJ)",
+        "Damage": "15",
+        "StartUpFrame": "15~18 js9~",
+        "BlockFrame": "-9~-6",
+        "HitFrame": "+2~+5",
+        "CounterHitFrame": "+2~+5"
+    },
+    {
+        "Command": "u/f+3+4, 3",
+        "HitLevel": "m (TJ), h",
+        "Damage": "15,18",
+        "StartUpFrame": "15~18 9~",
+        "BlockFrame": "-9",
+        "HitFrame": "0",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "u/f+3+4, 3+4",
+        "HitLevel": "m (TJ), m?",
+        "Damage": "15,22",
+        "StartUpFrame": "15~18 9~a",
+        "BlockFrame": "-21~-17",
+        "HitFrame": "Launch(JG?)",
+        "CounterHitFrame": "Launch(JG?)"
+    },
+    {
+        "Command": "f, F+2",
+        "HitLevel": "m",
+        "Damage": "20",
+        "StartUpFrame": "18(19~) pc6~17",
+        "BlockFrame": "-17",
+        "HitFrame": "CS",
+        "CounterHitFrame": "CS",
+        "Notes": "Power crush"
+    },
+    {
+        "Command": "f, F+3",
+        "HitLevel": "m (TJ)",
+        "Damage": "15",
+        "StartUpFrame": "22a(23~) js7~",
+        "BlockFrame": "-12",
+        "HitFrame": "0",
+        "CounterHitFrame": "0"
+    },
+    {
+        "Command": "f, F+3, F",
+        "HitLevel": "m (TJ), (Special)",
+        "Damage": "15",
+        "StartUpFrame": "js7~",
+        "BlockFrame": "-3",
+        "HitFrame": "9",
+        "CounterHitFrame": "9"
+    },
+    {
+        "Command": "f, F+3, 3+4",
+        "HitLevel": "m (TJ), mm",
+        "Damage": "15,5,20",
+        "StartUpFrame": "js1~31",
+        "BlockFrame": "-8~-7",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f, F+3, 3+4 (Only two first hits)",
+        "HitLevel": "m (TJ), m",
+        "Damage": "15,5",
+        "StartUpFrame": "js1~31",
+        "BlockFrame": "-20~-19",
+        "HitFrame": "-9~-8",
+        "CounterHitFrame": "-9~-8"
+    },
+    {
+        "Command": "f, F+4",
+        "HitLevel": "l",
+        "Damage": "23",
+        "StartUpFrame": "22~23 (23~)",
+        "BlockFrame": "-12~-11",
+        "HitFrame": "+4~+5",
+        "CounterHitFrame": "+9~+10"
+    },
+    {
+        "Command": "f, F+4, B",
+        "HitLevel": "l(BT)",
+        "Damage": "23",
+        "StartUpFrame": "22~23b (23~)",
+        "BlockFrame": "-12~-11",
+        "HitFrame": "+4~+5",
+        "CounterHitFrame": "+9~+10"
+    },
+    {
+        "Command": "f, F+1+2 (one spin)",
+        "HitLevel": "m",
+        "Damage": "28",
+        "StartUpFrame": "18~19 (29~30)",
+        "BlockFrame": "-9~-8",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "f, F+1+2* (two spins)",
+        "HitLevel": "m",
+        "Damage": "38",
+        "StartUpFrame": "18~19 (52~53)",
+        "BlockFrame": "+5~+6",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "f, F+1+2* (Very long hold)",
+        "HitLevel": "!",
+        "Damage": "50",
+        "StartUpFrame": "18~19 (75~76)",
+        "BlockFrame": "KND",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "f, F+3+4",
+        "HitLevel": "m (TJ)",
+        "Damage": "30",
+        "StartUpFrame": "19~25a (20~) js11~",
+        "BlockFrame": "-6~0",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "f, f, f+3",
+        "HitLevel": "m (TJ)",
+        "Damage": "30",
+        "StartUpFrame": "23~30 (26~) js3~",
+        "BlockFrame": "0~+7",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "WS+1",
+        "HitLevel": "m",
+        "Damage": "15",
+        "StartUpFrame": "13~14",
+        "BlockFrame": "-11~-10",
+        "HitFrame": "0~+1",
+        "CounterHitFrame": "0~+1"
+    },
+    {
+        "Command": "WS+1, 2",
+        "HitLevel": "m, h",
+        "Damage": "15,16",
+        "StartUpFrame": "13~14",
+        "BlockFrame": "-3~-2",
+        "HitFrame": "+8~+9",
+        "CounterHitFrame": "+8~+9"
+    },
+    {
+        "Command": "WS+1, 2, 4",
+        "HitLevel": "m, h, l",
+        "Damage": "15,16,20",
+        "StartUpFrame": "cs12~",
+        "BlockFrame": "-14~-13",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "WS+2",
+        "HitLevel": "m?",
+        "Damage": "17",
+        "StartUpFrame": "16~18",
+        "BlockFrame": "-12~-10",
+        "HitFrame": "Launch (JG?)",
+        "CounterHitFrame": "Launch (JG?)"
+    },
+    {
+        "Command": "WS+2, B",
+        "HitLevel": "m?(BT)",
+        "Damage": "17",
+        "StartUpFrame": "16~18b",
+        "BlockFrame": "-12~-10",
+        "HitFrame": "Launch (JG?)",
+        "CounterHitFrame": "Launch (JG?)"
+    },
+    {
+        "Command": "WS+3",
+        "HitLevel": "m",
+        "Damage": "20",
+        "StartUpFrame": "16~17 ar13~",
+        "BlockFrame": "-21~-20",
+        "HitFrame": "Launch (JG?)",
+        "CounterHitFrame": "Launch (JG?)"
+    },
+    {
+        "Command": "WS+3, 4",
+        "HitLevel": "m, m",
+        "Damage": "20,25",
+        "StartUpFrame": "js27~43",
+        "BlockFrame": "+4~+7s",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "WS+4",
+        "HitLevel": "m",
+        "Damage": "18",
+        "StartUpFrame": "11~12",
+        "BlockFrame": "-8~-7",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "FC+d/f+1",
+        "HitLevel": "m",
+        "Damage": "25",
+        "StartUpFrame": "14~15",
+        "BlockFrame": "-9~-8",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "FC+d/f+3 or d, D/F+3",
+        "HitLevel": "l (TJ), (TC)",
+        "Damage": "19",
+        "StartUpFrame": "23~32 cs18~",
+        "BlockFrame": "-18~-9",
+        "HitFrame": "-2~+7",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "SS+3",
+        "HitLevel": "m",
+        "Damage": "20",
+        "StartUpFrame": "18~19 (27~)",
+        "BlockFrame": "-9~-8",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "SS+1+2",
+        "HitLevel": "m",
+        "Damage": "21",
+        "StartUpFrame": "19~20 (28~)",
+        "BlockFrame": "-2~-1",
+        "HitFrame": "KND",
+        "CounterHitFrame": "CS"
+    },
+    {
+        "Command": "qcf or From certain moves",
+        "HitLevel": "(Special)",
+        "StartUpFrame": "RC"
+    },
+    {
+        "Command": "qcf+1",
+        "HitLevel": "m",
+        "Damage": "16",
+        "StartUpFrame": "15~16 (17~)",
+        "BlockFrame": "-12~-11",
+        "HitFrame": "-1~0",
+        "CounterHitFrame": "-1~0"
+    },
+    {
+        "Command": "qcf+1, 2",
+        "HitLevel": "m, m",
+        "Damage": "16,20",
+        "StartUpFrame": "15~16 (17~)",
+        "BlockFrame": "-14~-13",
+        "HitFrame": "KND",
+        "CounterHitFrame": "CS"
+    },
+    {
+        "Command": "qcf+1, 2, B (Cancel)",
+        "HitLevel": "m(BT)",
+        "Damage": "16",
+        "StartUpFrame": "15~16 (17~)b",
+        "BlockFrame": "-19~-18",
+        "HitFrame": "-8~-7",
+        "CounterHitFrame": "-8~-7"
+    },
+    {
+        "Command": "qcf+2",
+        "HitLevel": "m",
+        "Damage": "13",
+        "StartUpFrame": "14~15 (16~)",
+        "BlockFrame": "-10~-9",
+        "HitFrame": "-2~-1",
+        "CounterHitFrame": "-2~-1",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "qcf+2, 1",
+        "HitLevel": "m, m",
+        "Damage": "13,20",
+        "StartUpFrame": "14~15 (16~)",
+        "BlockFrame": "-11~-10",
+        "HitFrame": "+5~+6s",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "qcf+3",
+        "HitLevel": "m",
+        "Damage": "20",
+        "StartUpFrame": "16~17 (18~)",
+        "BlockFrame": "-21~-20",
+        "HitFrame": "Launch (JG?)",
+        "CounterHitFrame": "Launch (JG?)"
+    },
+    {
+        "Command": "qcf+3, 4",
+        "HitLevel": "m, m",
+        "Damage": "20,25",
+        "StartUpFrame": "16~17 (18~)a",
+        "BlockFrame": "+4~+7s",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "qcf+4",
+        "HitLevel": "m",
+        "Damage": "18",
+        "StartUpFrame": "11~12 (13~)",
+        "BlockFrame": "-8~-7",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "qcf+3+4",
+        "HitLevel": "hh",
+        "Damage": "6,20",
+        "StartUpFrame": "12~14, 22~23 (14~) js12~",
+        "BlockFrame": "+6~+7",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "b+3+4 (to BT)",
+        "HitLevel": "(BT)",
+        "StartUpFrame": "b"
+    },
+    {
+        "Command": "BT 1",
+        "HitLevel": "h",
+        "Damage": "8",
+        "StartUpFrame": "8",
+        "BlockFrame": "-8",
+        "HitFrame": "3",
+        "CounterHitFrame": "3"
+    },
+    {
+        "Command": "BT 1, 2",
+        "HitLevel": "h, h",
+        "Damage": "8,13",
+        "StartUpFrame": "8",
+        "BlockFrame": "-3",
+        "HitFrame": "5",
+        "CounterHitFrame": "5"
+    },
+    {
+        "Command": "BT 2",
+        "HitLevel": "m",
+        "Damage": "17",
+        "StartUpFrame": "14~16",
+        "BlockFrame": "-5~-3",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "BT 3",
+        "HitLevel": "h",
+        "Damage": "25",
+        "StartUpFrame": "10",
+        "BlockFrame": "-8",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "BT 4",
+        "HitLevel": "mm (TC)",
+        "Damage": "10,20",
+        "StartUpFrame": "26~28, 55~56b 1js13~ 2js1~14",
+        "BlockFrame": "-11~-10",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "BT 4, 3+4",
+        "HitLevel": "mm (TC), mm (TJ)",
+        "Damage": "10,20,10,20",
+        "StartUpFrame": "b js14~31",
+        "BlockFrame": "-10~-8",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "BT 1+2",
+        "HitLevel": "mm",
+        "Damage": "5,20",
+        "StartUpFrame": "13~14, 19~20",
+        "BlockFrame": "-10~-9s",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "BT 3+4",
+        "HitLevel": "m (TJ)",
+        "Damage": "18",
+        "StartUpFrame": "29~32 js5~",
+        "BlockFrame": "-4~-1",
+        "HitFrame": "+5~+8s",
+        "CounterHitFrame": "+5~+8s"
+    },
+    {
+        "Command": "BT 3+4, 2",
+        "HitLevel": "m (TJ), m",
+        "Damage": "18,21",
+        "StartUpFrame": "29~32 5~",
+        "BlockFrame": "-11~-9",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "BT d+3",
+        "HitLevel": "l (TC)",
+        "Damage": "16",
+        "StartUpFrame": "17~19 cs4~",
+        "BlockFrame": "-17~-15",
+        "HitFrame": "-1~+1",
+        "CounterHitFrame": "+2~+4s"
+    },
+    {
+        "Command": "BT d+3, 4",
+        "HitLevel": "l (TC), m",
+        "Damage": "16,24",
+        "StartUpFrame": "17~19 4~",
+        "BlockFrame": "-13~-11",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND"
+    },
+    {
+        "Command": "BT d+4",
+        "HitLevel": "l",
+        "Damage": "12",
+        "StartUpFrame": "10s cs1~",
+        "BlockFrame": "-11",
+        "HitFrame": "3",
+        "CounterHitFrame": "3"
+    },
+    {
+        "Command": "BT d+3+4",
+        "HitLevel": "l (TC)(BT)",
+        "Damage": "25",
+        "StartUpFrame": "22~25b cs4~",
+        "BlockFrame": "-26",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "BT d+3+4, F",
+        "HitLevel": "l (TC)",
+        "Damage": "25",
+        "StartUpFrame": "22~25 cs4~",
+        "BlockFrame": "-26",
+        "HitFrame": "KND",
+        "CounterHitFrame": "KND",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "BT b+3",
+        "HitLevel": "(Special) (TJ)",
+        "StartUpFrame": "22~25 4~"
+    },
+    {
+        "Command": "BT b+4",
+        "HitLevel": "(Special) (TJ)",
+        "StartUpFrame": "22~25 4~"
+    }
+]
