@@ -33,6 +33,5 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
-myapp-release-key.keystore
+*.keystore
 zipalign.exe
-tekken.seve.frame.tool-release-key.keystore

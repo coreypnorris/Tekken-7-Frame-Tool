@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { HomePage } from '../home/home';
 import { AboutPage } from '../about/about';
+import { ContactPage } from '../contact/contact';
 
 /**
  * Generated class for the LaunchPage page.
@@ -26,5 +27,9 @@ export class LaunchPage {
 
   clickFrameDataButton() {
     this.navCtrl.push(HomePage);
+  }
+
+  clickContactButton() {
+    this.navCtrl.push(ContactPage);
   }
 }
