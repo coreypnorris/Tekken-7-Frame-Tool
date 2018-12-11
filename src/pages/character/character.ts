@@ -5,7 +5,7 @@ import { Observable } from 'rxjs/Observable';
 import { HttpClient } from '@angular/common/http';
 
 /**
- * Generated class for the DetailPage page.
+ * Generated class for the CharacterPage page.
  *
  * See https://ionicframework.com/docs/components/#navigation for more info on
  * Ionic pages and navigation.
@@ -13,10 +13,10 @@ import { HttpClient } from '@angular/common/http';
 
 @IonicPage()
 @Component({
-  selector: 'page-detail',
-  templateUrl: 'detail.html',
+  selector: 'page-character',
+  templateUrl: 'character.html',
 })
-export class DetailPage {
+export class CharacterPage {
   character: any;
   infotype: string;
   attacks: any;

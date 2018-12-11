@@ -6,9 +6,9 @@ import { HttpClientModule } from '@angular/common/http';
 import { AboutPage } from '../pages/about/about';
 import { ContactPage } from '../pages/contact/contact';
 import { LaunchPage } from '../pages/launch/launch';
-import { HomePage } from '../pages/home/home';
+import { CharactersPage } from '../pages/characters/characters';
 import { TabsPage } from '../pages/tabs/tabs';
-import { DetailPage } from '../pages/detail/detail';
+import { CharacterPage } from '../pages/character/character';
 import { MovePage } from '../pages/move/move';
 
 import { StatusBar } from '@ionic-native/status-bar';
@@ -19,9 +19,9 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     MyApp,
     AboutPage,
     ContactPage,
-    HomePage,
+    CharactersPage,
     TabsPage,
-    DetailPage,
+    CharacterPage,
     MovePage,
     LaunchPage
   ],
@@ -35,9 +35,9 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     MyApp,
     AboutPage,
     ContactPage,
-    HomePage,
+    CharactersPage,
     TabsPage,
-    DetailPage,
+    CharacterPage,
     MovePage,
     LaunchPage
   ],

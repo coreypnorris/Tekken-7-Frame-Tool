@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-import { HomePage } from '../home/home';
+import { CharactersPage } from '../characters/characters';
 import { AboutPage } from '../about/about';
 import { ContactPage } from '../contact/contact';
 
@@ -26,7 +26,7 @@ export class LaunchPage {
   }
 
   clickFrameDataButton() {
-    this.navCtrl.push(HomePage);
+    this.navCtrl.push(CharactersPage);
   }
 
   clickContactButton() {
