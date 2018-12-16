@@ -19,49 +19,31 @@ import { HttpClient } from '@angular/common/http';
 export class CharacterPage {
   character: any;
   infotype: string;
-  attacks: any;
+  moves: any;
   basic_moves: any;
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public http: HttpClient) {
     this.character = navParams.data.character;
-    
-
-    this.loadAttacks();
-    // this.initializeBasicMoves();
-    this.infotype = "profile"; // default segment button
+    this.loadMoves();
   }
 
-  loadAttacks() {
-    let data: Observable<any> = this.http.get('./assets/data/Attacks/' + this.character.Name +'.json');
+  loadMoves() {
+    let data: Observable<any> = this.http.get('./assets/data/Moves/' + this.character.Name +'.json');
     data.subscribe(result => {
-      this.attacks = result;
+      this.moves = result;
     });
   }
 
-  // initializeBasicMoves() {
-  //   this.basic_moves = this.character.basic_moves;
-  // }
-
-  searchAttacks(ev: any) {
+  searchMoves(ev: any) {
     let val = ev.target.value;
     if (val && val.trim() != '') {
-      this.attacks = this.attacks.filter((attack) => {
-        return (attack.Command.toString().toLowerCase().indexOf(val.toLowerCase()) > -1);
+      this.moves = this.moves.filter((move) => {
+        return (move.Command.toString().toLowerCase().indexOf(val.toLowerCase()) > -1);
       })
     } else {
-      this.loadAttacks();
+      this.loadMoves();
     }
   }
-
-  // getBasicMoves(ev: any) {
-  //   this.initializeBasicMoves();
-  //   let val = ev.target.value;
-  //   if (val && val.trim() != '') {
-  //     this.basic_moves = this.basic_moves.filter((move) => {
-  //       return (move.command.toString().toLowerCase().indexOf(val.toLowerCase()) > -1);
-  //     })
-  //   }
-  // }
 
   moveSelected(move) {
     this.navCtrl.push(MovePage, {
