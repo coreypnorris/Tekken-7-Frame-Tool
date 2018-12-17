@@ -1,122 +1,174 @@
 ﻿[
     {
-        "Name": "Akuma"
+        "Name": "Akuma",
+        "LastUpdated":"04.08.2017"
     },
     {
-        "Name": "Alisa"
+        "Name": "Alisa",
+        "LastUpdated":"09.09.2018"
     },
     {
-        "Name": "Anna"
+        "Name": "Anna",
+        "LastUpdated":"07.10.2018"
     },
     {
-        "Name": "Asuka"
+        "Name": "Armor King",
+        "LastUpdated":"11.12.2018"
     },
     {
-        "Name": "Bob"
+        "Name": "Asuka",
+        "LastUpdated":"15.09.2018"
     },
     {
-        "Name": "Bryan"
+        "Name": "Bob",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Claudio"
+        "Name": "Bryan",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Devil Jin"
+        "Name": "Claudio",
+        "LastUpdated":"04.08.2017"
     },
     {
-        "Name": "Dragunov"
+        "Name": "Devil Jin",
+        "LastUpdated":"24.09.2018"
     },
     {
-        "Name": "Eddy"
+        "Name": "Dragunov",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Eliza"
+        "Name": "Eddy",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Feng"
+        "Name": "Eliza",
+        "LastUpdated":"07.11.2018"
     },
     {
-        "Name": "Geese"
+        "Name": "Feng",
+        "LastUpdated":"17.10.2018"
     },
     {
-        "Name": "Gigas"
+        "Name": "Geese",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Heihachi"
+        "Name": "Gigas",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Hwoarang"
+        "Name": "Heihachi",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Jack 7"
+        "Name": "Hwoarang",
+        "LastUpdated":"30.11.2018"
     },
     {
-        "Name": "Jin"
+        "Name": "Jack 7",
+        "LastUpdated":"18.10.2018"
     },
     {
-        "Name": "Josie"
+        "Name": "Jin",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Katarina"
+        "Name": "Josie",
+        "LastUpdated":"30.11.2018"
     },
     {
-        "Name": "Kazumi"
+        "Name": "Katarina",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Kazuya"
+        "Name": "Kazumi",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "King"
+        "Name": "Kazuya",
+        "LastUpdated":"18.11.2018"
     },
     {
-        "Name": "Kuma"
+        "Name": "King",
+        "LastUpdated":"04.10.2018"
     },
     {
-        "Name": "Lars"
+        "Name": "Kuma",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Lei"
+        "Name": "Lars",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Law"
+        "Name": "Lei",
+        "LastUpdated":"09.12.2018"
     },
     {
-        "Name": "Lee"
+        "Name": "Law",
+        "LastUpdated":"17.10.2018"
     },
     {
-        "Name": "Leo"
+        "Name": "Lee",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Lili"
+        "Name": "Leo",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Lucky Chloe"
+        "Name": "Lili",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Master Raven"
+        "Name": "Lucky Chloe",
+        "LastUpdated":"04.11.2018"
     },
     {
-        "Name": "Miguel"
+        "Name": "Marduk",
+        "LastUpdated":"16.12.2018"
     },
     {
-        "Name": "Nina"
+        "Name": "Master Raven",
+        "LastUpdated":"03.12.2017"
     },
     {
-        "Name": "Noctis"
+        "Name": "Miguel",
+        "LastUpdated":"07.12.2018"
     },
     {
-        "Name": "Paul"
+        "Name": "Negan",
+        "LastUpdated":""
     },
     {
-        "Name": "Shaheen"
+        "Name": "Nina",
+        "LastUpdated":"09.09.2018"
     },
     {
-        "Name": "Steve"
+        "Name": "Noctis",
+        "LastUpdated":"03.05.2018"
     },
     {
-        "Name": "Xiaoyu"
+        "Name": "Paul",
+        "LastUpdated":"04.11.2018"
     },
     {
-        "Name": "Yoshimitsu"
+        "Name": "Shaheen",
+        "LastUpdated":"24.11.2018"
+    },
+    {
+        "Name": "Steve",
+        "LastUpdated":"16.09.2018"
+    },
+    {
+        "Name": "Xiaoyu",
+        "LastUpdated":"07.12.2018"
+    },
+    {
+        "Name": "Yoshimitsu",
+        "LastUpdated":"04.08.2017"
     }
 ]

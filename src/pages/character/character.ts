@@ -28,20 +28,24 @@ export class CharacterPage {
   }
 
   loadMoves() {
-    let data: Observable<any> = this.http.get('./assets/data/Moves/' + this.character.Name +'.json');
+    let data: Observable<any> = this.http.get('./assets/data/Moves/' + this.character.Name + '.json');
     data.subscribe(result => {
       this.moves = result;
     });
   }
 
   searchMoves(ev: any) {
-    let val = ev.target.value;
+    // Reset items back to all of the items
+    this.loadMoves();
+
+    // set val to the value of the searchbar
+    const val = ev.target.value;
+
+    // if the value is an empty string don't filter the items
     if (val && val.trim() != '') {
       this.moves = this.moves.filter((move) => {
         return (move.Command.toString().toLowerCase().indexOf(val.toLowerCase()) > -1);
       })
-    } else {
-      this.loadMoves();
     }
   }
 
