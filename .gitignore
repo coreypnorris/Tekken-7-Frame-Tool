@@ -37,3 +37,5 @@ UserInterfaceState.xcuserstate
 zipalign.exe
 keystore.jks
 upload_certificate.pem
+publish-notes.md
+src/assets/
