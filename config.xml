@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="tekken.seven.frame.tool" version="0.0.9" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="tekken.seven.frame.tool" version="0.0.10" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Tekken 7 Frame Tool</name>
     <description>A simple frame data lookup tool for the game Tekken 7.</description>
     <author email="coreypnorris@gmail.com" href="http://coreypnorris.com/">Corey P. Norris</author>
