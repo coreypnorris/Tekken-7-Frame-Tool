@@ -24,6 +24,10 @@ export class CharactersPage {
   }
 
   characterSelected(character) {
+    if (character.LastUpdated === 'Coming Soon') {
+      return;
+    }
+
     this.navCtrl.push(CharacterPage, {
       character: character
     });

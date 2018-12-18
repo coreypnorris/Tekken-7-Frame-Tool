@@ -11,7 +11,8 @@
         <img src="assets/img/headshots/{{character.Name}}.png">
       </ion-avatar>
       <h2>{{character.Name}}</h2>
-      <p>Last Updated: {{character.LastUpdated}}</p>
+      <p *ngIf="character.LastUpdated === 'Coming Soon'">{{character.LastUpdated}}</p>
+      <p *ngIf="character.LastUpdated !== 'Coming Soon'">Last Updated: {{character.LastUpdated}}</p>
     </ion-item>
   </ion-list>
 </ion-content>
