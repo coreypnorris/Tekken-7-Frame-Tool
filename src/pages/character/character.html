@@ -1,4 +1,4 @@
-<ion-content>
+<ion-content *ngIf="character.LastUpdated !== 'Coming Soon'">
   <ion-header>
     <ion-navbar>
       <ion-title>Back</ion-title>
@@ -12,12 +12,23 @@
       </ion-card-content>
     </ion-card>
 
-    <ion-searchbar (ionInput)="searchMoves($event)" (ionCancel)="onCancel($event)" placeholder="Search Moves"></ion-searchbar>
+    <ion-searchbar (ionInput)="searchMoves($event)" (ionCancel)="onCancel($event)" placeholder=""></ion-searchbar>
     <ion-list>
       <ion-item *ngFor="let move of moves" (click)="moveSelected(move)">
         {{ move.Command }}
       </ion-item>
     </ion-list>
+  </ion-header>
+</ion-content>
 
+<ion-content *ngIf="character.LastUpdated === 'Coming Soon'">
+  <ion-header>
+    <ion-navbar>
+      <ion-title>Back</ion-title>
+    </ion-navbar>
+
+    <ion-card style="text-align:center;">
+      <img src="./assets/img/headshots/{{character.Name}}.png">
+    </ion-card>
   </ion-header>
 </ion-content>
