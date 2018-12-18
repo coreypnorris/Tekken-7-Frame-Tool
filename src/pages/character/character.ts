@@ -28,7 +28,7 @@ export class CharacterPage {
   }
 
   loadMoves() {
-    let data: Observable<any> = this.http.get('./assets/data/Moves/' + this.character.Name + '.json');
+    let data: Observable<any> = this.http.get('assets/data/Moves/' + this.character.Name + '.json');
     data.subscribe(result => {
       this.moves = result;
     });

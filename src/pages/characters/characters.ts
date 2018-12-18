@@ -13,7 +13,7 @@ export class CharactersPage {
   public characters: any;
 
   constructor(public navCtrl: NavController, public modalCtrl: ModalController, public http: HttpClient) {
-    let data: Observable<any> = this.http.get('./assets/data/Characters.json');
+    let data: Observable<any> = this.http.get('assets/data/Characters.json');
     data.subscribe(result => {
       this.characters = result;
     });
