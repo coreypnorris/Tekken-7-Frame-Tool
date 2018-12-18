@@ -5,7 +5,7 @@
     </ion-navbar>
 
     <ion-card style="text-align:center;">
-      <img src="assets/img/headshots/{{character.Name}}.png">
+      <img src="assets/img/headshots/{{character.Name | lowercase}}.png">
       <ion-card-content>
         <ion-card-title>{{character.Name}}</ion-card-title>
         <p>Last Updated: {{character.LastUpdated}}</p>
@@ -28,7 +28,7 @@
     </ion-navbar>
 
     <ion-card style="text-align:center;">
-      <img src="assets/img/headshots/{{character.Name}}.png">
+      <img src="assets/img/headshots/{{character.Name | lowercase}}.png">
     </ion-card>
   </ion-header>
 </ion-content>

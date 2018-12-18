@@ -8,7 +8,7 @@
   <ion-list>
     <ion-item (click)="characterSelected(character)" *ngFor="let character of characters">
       <ion-avatar item-start>
-        <img src="assets/img/headshots/{{character.Name}}.png">
+        <img src="assets/img/headshots/{{character.Name | lowercase}}.png">
       </ion-avatar>
       <h2>{{character.Name}}</h2>
       <p *ngIf="character.LastUpdated === 'Coming Soon'">{{character.LastUpdated}}</p>
